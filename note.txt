@@ -1,0 +1,15 @@
+1/ ( Cài vào ổ C, chỉ cần q lần duy nhất)
+WINDOWS: npm install -g create-react-app
+MACOS:sudo npm install -g create-react-app
+
+2/ Cài project: create-react-app bc29reactjs
+
+3/ chạy project : npm start
+
+//Single page application: ứng dụng 1 trang
+// Multi page application: ứng dụng nhiều trang
+// SEO = SEO  
+
+4/ xóa node_modules => npm install (install lại dựa trên dependencies của package.json)
+
+// 56:05
